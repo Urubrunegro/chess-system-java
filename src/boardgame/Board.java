@@ -59,4 +59,8 @@ public class Board {
         }
         return piece(position) != null;
     }
+
+    public void Piece(int row, int column){
+
+    }
 }
